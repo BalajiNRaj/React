@@ -1,0 +1,28 @@
+{
+  "name": "react-string-array-utils",
+  "version": "1.0.0",
+  "description": "String, Array and Object Utils.",
+  "main": "ArrayUtils.js",
+  "scripts": {
+    "test": "echo \"Hey, This is Balaji\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalajiNRaj/React.git"
+  },
+  "keywords": [
+    "react",
+    "react-string",
+    "react-array",
+    "string",
+    "string-utils",
+    "array",
+    "array-utils"
+  ],
+  "author": "Balaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalajiNRaj/React/issues"
+  },
+  "homepage": "https://github.com/BalajiNRaj/React#readme"
+}
