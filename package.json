@@ -1,6 +1,6 @@
 {
   "name": "react-string-array-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String, Array and Object Utils.",
   "main": "ArrayUtils.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BalajiNRaj/React.git"
+    "url": "git+https://github.com/BalajiNRaj/React_String_Array_Utils.git"
   },
   "keywords": [
     "react",
@@ -22,7 +22,14 @@
   "author": "Balaji",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BalajiNRaj/React/issues"
+    "url": "https://github.com/BalajiNRaj/React_String_Array_Utils/issues"
   },
-  "homepage": "https://github.com/BalajiNRaj/React#readme"
+  "homepage": "https://github.com/BalajiNRaj/React_String_Array_Utils#readme",
+  "devDependencies": {},
+  "exclude": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
 }
